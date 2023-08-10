@@ -1,0 +1,26 @@
+{
+  "name": "nodejslogomkr",
+  "version": "1.0.0",
+  "description": "logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nathan FK",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathankay89/nodejslogomkr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathankay89/nodejslogomkr/issues"
+  },
+  "homepage": "https://github.com/nathankay89/nodejslogomkr#readme"
+}
